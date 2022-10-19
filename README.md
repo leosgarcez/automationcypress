@@ -1,2 +1,2 @@
 # automationcypress
-Some tets using Cypress
+Some tests using Cypress
